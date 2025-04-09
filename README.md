@@ -73,12 +73,6 @@ Form with One to Many (Course-Lessons)
   <img src="./docs/form.jpeg" alt="Form Page" width="100%">
 </p>
 
-View Page with YouTube Player
-
-<p align="center">
-  <img src="./docs/view.jpeg" alt="View Page" width="100%">
-</p>
-
 ## ❗️Executing the code locally
 
 ### Executing the back-end
